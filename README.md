@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I wrestle for NCHS Panthers!
 
 Some web design trends I've seen...
-Minimalist designs; Simple and clean web layout
-Dark Mode; Reduces strain on user's eyes
-Interactive Elements; Buttons, hover effects
++ Minimalist designs; Simple and clean web layout
++ Dark Mode; Reduces strain on user's eyes
++ Interactive Elements; Buttons, hover effects
 
 Why might people visit the site I am producing?
 1. To learn more about me!
