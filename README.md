@@ -18,7 +18,4 @@ Why might people visit the site I am producing?
 4. Fans from my Social media
 5. Potential people who want to hire me
 
-<!---
-AngeSmif/AngeSmif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Flowchart](https://github.com/user-attachments/assets/0992e556-346d-4499-9755-4e21b7e64937)
