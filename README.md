@@ -19,3 +19,5 @@ Why might people visit the site I am producing?
 5. Potential people who want to hire me
 
 ![Flowchart](https://github.com/user-attachments/assets/0992e556-346d-4499-9755-4e21b7e64937)
+
+![LAYOUT](https://github.com/user-attachments/assets/62a1a6ce-e2d7-4eb2-a57a-af048cd02146)
