@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Essay Title</title>
+    <style>
+      main {
+        text-indent: 2em;
+      }
+    </style>
+  </head>
+ 
+
+  <body>
+    <header>
+      <h1>Essay Title</h1>
+      <h4>Author Name:</h4>
+    </header>
+    <main>
+      <p>
+        <strong>Introduction:</strong> Start by introducing the topic with a
+        clear explanation and an overview of its importance or relevance.
+      </p>
+      <p>
+        <strong>Fact 1:</strong> Provide the first key fact or detail about the
+        topic, supported by relevant information or examples.
+      </p>
+      <p>
+        <strong>Fact 2:</strong> Share another significant fact or detail,
+        including supporting evidence or data to enhance understanding.
+      </p>
+      <p>
+        <strong>Fact 3:</strong> Offer additional factual information,
+        presenting it clearly and logically to inform the audience further.
+      </p>
+      <p>
+        <strong>Conclusion:</strong> Summarize the key facts discussed and
+        provide any final insights or a summary statement about the topic.
+      </p>
+    </main>
+  </body>
+</html>
